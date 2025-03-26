@@ -1,5 +1,7 @@
 ## Symmetrical power supply
 A power supply with regulated output voltage (ranging +-4 - +-16V) and current limiter set at 0.8A.
+<br />
+<br />
 
 ### SCHEMATIC
 <p align="center">
