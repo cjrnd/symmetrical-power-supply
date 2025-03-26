@@ -1,4 +1,4 @@
-Zasilacz symetryczny z regulowanym napięciem wyjściowym 4 - 16V oraz ograniczeniem prądowym do 0.8A.
+A symmetrical power supply with regulated output voltage (ranging +-4 - +-16V) and current limiter set at 0.8A.
 
 <p align="center">
   <img src="pictures/Schematic.jpg"/>
